@@ -1,4 +1,5 @@
 Hi, I’m Darya
+
 I am building practical experience in **bioinformatics, scientific data analysis, and research workflow support**.
 
 My main interests are at the intersection of:
